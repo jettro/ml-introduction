@@ -1,4 +1,4 @@
-Number of rooms, Square footage, Price, Year built, Type, Address, City
+NumberOfRooms,SquareFootage,Price,YearBuilt,Type,Address,City
 3,61,284500,1983,Appartement,Nes 96,Pijnacker
 4,104,375000,1983,Woonhuis,Roggeakker 23,Pijnacker
 4,277,1075000,2006,Woonhuis,Katwijkerlaan 119,Pijnacker
