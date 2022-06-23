@@ -4,3 +4,6 @@ num_rooms,city_size,price,expensive
 5,30000,299000,true
 3,1000000,750000,false
 3,40000,225000,false
+2,120000,100000,false
+7,750000,350000,false
+4,750000,450000,true
