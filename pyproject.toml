@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "ml-introduction"
+version = "0.1.0"
+description = ""
+authors = ["Jettro Coenradie <jettro@coenradie.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyter = "^1.0.0"
+numpy = "^1.26.4"
+pandas = "^2.2.2"
+matplotlib = "^3.8.4"
+tensorflow = "^2.16.1"
+setuptools = "^69.5.1"
+scipy = "^1.14.1"
+scikit-learn = "^1.5.2"
+seaborn = "^0.13.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
